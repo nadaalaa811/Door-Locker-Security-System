@@ -21,4 +21,4 @@ if the password is false for 3 consecutive times, a warning message is displayed
 
 # How to use:
 
-Download the project along with the proteus simulation <a href="https://www.mediafire.com/file/dtg1kb8p13hi09y/Final_Project.rar/file">Here</a>.
+Download the project along with the proteus simulation <a href="https://drive.google.com/file/d/111taHPHOJJ3vBdmIsGWZ1Sy39kj-I5qx/view">Here</a>.
