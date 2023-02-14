@@ -13,10 +13,10 @@ if the password is false for 3 consecutive times, a warning message is displayed
 
 # Implemented Drivers: GPIO, UART, I2C, Timer, Keypad, DC Motor, EEPROM, LCD, Buzzer
 
-<img src="https://user-images.githubusercontent.com/85132955/212493424-516f53a6-db42-4a4a-b908-2ab111cc272e.png" style="display: block; width: 80%;">
+<img src="https://user-images.githubusercontent.com/85295041/218767683-45b770bf-4d9c-4114-91fe-5bb570beaa90.png" style="display: block; width: 80%;">
 
 
-<img src="https://user-images.githubusercontent.com/85132955/212493441-bf32924b-d183-4037-aa98-5a3d789548c2.png" style="display: block; width: 50%;">
+<img src="https://user-images.githubusercontent.com/85295041/218768078-e4de9bd8-ea63-42e8-8147-9d5463a848c9.png" style="display: block; width: 50%;">
 
 
 # How to use:
